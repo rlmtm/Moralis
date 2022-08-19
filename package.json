@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "buffer": "^6.0.3",
+    "emailjs-mime-parser": "^2.0.7",
+    "express": "^4.18.1",
+    "handlebars": "^4.7.7",
+    "koa": "^2.13.4",
+    "moment": "^2.29.3",
+    "request": "^2.88.2",
+    "requesty": "^0.10.0",
+    "screen-size-detector": "^1.0.4",
+    "steam-js-api": "^1.1.0",
+    "steamapi": "^2.2.0"
+  },
+  "name": "mtmlr_b033q5o",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
